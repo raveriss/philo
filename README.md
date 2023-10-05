@@ -1,4 +1,8 @@
-# Projet Philosophers
+# **Projet Philosophers**
+
+<div align="center">
+  <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/philosopherse.png" alt="Badge du projet Philosophers">
+</div>
 
 ## Description
 Ce projet est une implémentation du problème des philosophes à l'aide de la programmation multithreadée et la gestion de mutex en C. Le but est de résoudre les problèmes de concurrence comme les conditions de course, les deadlocks et les famines.
