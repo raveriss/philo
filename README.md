@@ -1,7 +1,5 @@
 # Projet Philosophers
 
-![Schéma du projet Philosophers]([/mnt/nfs/homes/raveriss/philo/philo_raveriss](https://github.com/byaliego/42-project-badges/blob/main/badges/philosopherse.png))
-
 ## Description
 Ce projet est une implémentation du problème des philosophes à l'aide de la programmation multithreadée et la gestion de mutex en C. Le but est de résoudre les problèmes de concurrence comme les conditions de course, les deadlocks et les famines.
 
