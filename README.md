@@ -1,6 +1,5 @@
 # Projet Philosophers
 
-##
 ![Schéma du projet Philosophers]([/mnt/nfs/homes/raveriss/philo/philo_raveriss](https://github.com/byaliego/42-project-badges/blob/main/badges/philosopherse.png))
 
 ## Description
