@@ -25,8 +25,6 @@ Ce projet est une implémentation du problème des philosophes à l'aide de la p
 
 ## Installation et Compilation
 ```
-bash
-Copy code
 git clone [Votre URL de dépôt]
 cd [Nom du répertoire]
 make
@@ -34,8 +32,6 @@ make
 
 ## Utilisation
 ```
-bash
-Copy code
 ./philo [options]
 ```
 
