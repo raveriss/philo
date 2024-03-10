@@ -25,19 +25,15 @@ Ce projet est une implémentation du problème des philosophes à l'aide de la p
 
 ## Installation et Compilation
 ```
-git clone [Votre URL de dépôt]
-cd [Nom du répertoire]
+git clone git@github.com:Omisev/philo.git
+cd philo
 make
 ```
 
 ## Utilisation
 ```
-./philo [options]
+./philo 2 400 100 100 5
 ```
-
-## Options
-option1: Description de l'option 1
-option2: Description de l'option 2
 
 ## Caractéristiques
 Gestion de la concurrence avec pthread et mutex
