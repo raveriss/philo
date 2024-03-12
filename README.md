@@ -5,6 +5,10 @@
 </div>
 
 ##
+<div aligne="center">
+  <img src="https://github.com/Omisev/philo/blob/main/philosophers_representation.webp" alt="representation">
+
+##
 <div align="center">
   <img src="https://github.com/Omisev/philo/blob/main/Capture_philosophers.png" alt="sreenshot">
 </div>
